@@ -36,4 +36,4 @@ Well，I just begin to learn this language called “MarkDown”.And I really do
 看到我上面之前打的删除线了嘛 其实只要在对象 前后分别打上两个~ 就可以啦 效果： ~~我不想被删除~~
 > 好的 写到这里算是告一段落啦 作为小白的我已经介绍了一些基本操作（还有一些像展示代码框和写表格的操作就先不介绍啦） 以后有学到新东西会考虑继续update哒
 ## 所有图片来源于csdn（天知道我上传了多久）
-### Bye Thank you for your precious time !
+# Bye Thank you for your precious time !
