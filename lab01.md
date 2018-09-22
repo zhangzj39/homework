@@ -7,5 +7,6 @@ Well，I just begin to learn this language called “MarkDown”.And I really do
  标题就是＃键后加上空格然后再打上标题名称就🆗了像这样：
  ![bb](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/bb.png)
  > 图片来源于csdn（天知道我上传了多久）
-
-
+然后这种方法写标题 标题大小分为六个等级 (每多一个#，标题大小就会变小一个等级)另外还有别的几种标题的写法，在此不做介绍。（因为觉得这种最方便）
+### 图片写法
+这个真的研究了我很久了 格式是![自己修改图片名称]（写上图片的网址） 不过需要注意的是在Github上引用图片需要先将图片上传到GitHub项目的目录上~
