@@ -23,8 +23,8 @@ Well，I just begin to learn this language called “MarkDown”.And I really do
 ##### 有序展示 
 > 写法是数字加上. 再加上标题 （注意输入的.一定要是英文的）
 
-![有序写法]（https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121175958281-1526944139.png ）
-![有序效果]（https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121180005984-1893005909.png ）
+![有序写法](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121175958281-1526944139.png)
+![有序效果](       https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121180005984-1893005909.png)
 看出点端倪了嘛
 ### 删除线 
 看到我上面之前打的删除线了嘛 其实只要在对象 前后分别打上两个~ 就可以啦 效果： ~~我不想被删除~~
