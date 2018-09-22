@@ -21,13 +21,19 @@ Well，I just begin to learn this language called “MarkDown”.And I really do
 ### 列表
 列表分为两种 有序和无序（区别是写出来后有序列表会帮你自动将编号从最初的数字开始顺好）
 ##### 有序展示 
-> 写法是数字加上. 再加上标题 （注意输入的.一定要是英文的）
+> 写法是数字加上. 再加上标题 （注意输入的.一定要是英文的） 左边是输入 右边是输出效果
 
 ![有序写法](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121175958281-1526944139.png)
 ![有序效果](       https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121180005984-1893005909.png)
-看出点端倪了嘛
+>>>看出点端倪了嘛
+##### 无序写法 
+无序的就很简单啦 写法展示：
+![无序展示](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121171909093-661987876.png)
+![无序效果](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121171919343-1747027523.png)
+>> 用"*" "+" "-"中的哪一个加上数字来写都可以！
+
 ### 删除线 
 看到我上面之前打的删除线了嘛 其实只要在对象 前后分别打上两个~ 就可以啦 效果： ~~我不想被删除~~
-> 好的 写到这里算是告一段落啦 作为小白的我已经介绍了一些基本操作（还有一些像展示代码框的操作就先不介绍啦） 以后有学到新东西会考虑继续update哒
+> 好的 写到这里算是告一段落啦 作为小白的我已经介绍了一些基本操作（还有一些像展示代码框和写表格的操作就先不介绍啦） 以后有学到新东西会考虑继续update哒
 ## 所有图片来源于csdn（天知道我上传了多久）
 ### Bye Thank you for your precious time !
