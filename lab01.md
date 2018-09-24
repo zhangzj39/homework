@@ -13,7 +13,7 @@ Well，I just begin to learn this language called “MarkDown”.And I really do
 ### 图片和链接写法
 这个我真的研究了很久了 格式是![自己修改图片名称]（写上图片的网址） 不过需要注意的是在Github上引用图片需要先将图片上传到GitHub项目的目录上~
 此外 引用链接的写法类似 只是不用在[]前加上感叹号~  看：
-![](https://github.com/zhangzj39/homework/blob/gh-pages/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/cc.png)
+![](images/cc.png)
 ### 引用注释
 这个主要是起个解释说明的作用 只用打出>加上自己想要补充的内容就行啦 （类似标题， 引用注释>的个数会决定引用的等级）
 请看：
@@ -26,13 +26,13 @@ Well，I just begin to learn this language called “MarkDown”.And I really do
 ##### 有序展示 
 > 写法是数字加上. 再加上标题 （注意输入的.一定要是英文的） 左边是输入 右边是输出效果
 
-![](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121175958281-1526944139.png)
-![](       https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121180005984-1893005909.png)
+![](images/600165-20170121175958281-1526944139.png)
+![](images/600165-20170121180005984-1893005909.png)
 >看出点端倪了嘛
 ##### 无序写法 
 无序的就很简单啦 写法展示：
-![](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121171909093-661987876.png)
-![](https://github.com/zhangzj39/homework/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/600165-20170121171919343-1747027523.png)
+![](images/600165-20170121171909093-661987876.png)
+![](images/600165-20170121171919343-1747027523.png)
 >>用"*" "+" "-"中的哪一个加上数字来写都可以！
 
 ### 删除线 
