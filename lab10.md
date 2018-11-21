@@ -13,32 +13,37 @@
 
 3.[实验小结](#3)<br/>
 
-<h3 id="1">1.实验目的：<h3/>	
+<h3 id="1">1.实验目的：</h3>	
 1.了解一种“解释型”语言 python <br/>
 2.使用 python 做一些简单的科学计算<br/>
 3.使用python求解高数题目以及线代题目<br/>
 
 
-<h3 id="2">2.实验步骤与结果：<h3/>
+<h3 id="2">2.实验步骤与结果：</h3>
 ###   实验前准备 
 1.软件准备:下载winpython
-![ ](images/lab10/%E6%8D%951.PNG)
+![](images/lab10/%E6%8D%951.PNG)
 2.了解实验环境，基本操作学习
-![ ](images/lab10/2.PNG)
+![](images/lab10/2.PNG)
+
+
 ### 实验一 ： 使用python解决高数题目
 第一步，导入math 和 sympy 库
 题目一：求极限![](images/lab10/3.PNG)    ![](images/lab10/4.PNG)
 题目二：泰勒展开
 求解sin(x)的泰勒展开
-![ ](images/lab10/5.PNG)
+![](images/lab10/5.PNG)
+
 ### 实验二 ： 使用python解决线性代数题目
+
 题目一：解方程
-![ ](images/lab10/6.PNG)
-![ ](images/lab10/7.PNG)
+![](images/lab10/6.PNG)
+![](images/lab10/7.PNG)
+
 题目二：矩阵处理
 原始矩阵：![](images/lab10/8.PNG)
-1.获取行列!
-2.求逆矩阵!
+1.获取行列
+2.求逆矩阵
 3.获得转置矩阵![](images/lab10/9.PNG)
 
 <h3 id="3">3.实验小结：</h3>
