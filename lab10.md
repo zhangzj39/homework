@@ -29,7 +29,7 @@
 
 ### 实验一 ： 使用python解决高数题目
 第一步，导入math 和 sympy 库
-题目一：求极限![](images/lab10/3.PNG)    ![](images/lab10/4.PNG)
+题目一：求极限![](images/lab10/3.PNG)    ![](images/lab10/4.PNG) <br/>
 题目二：泰勒展开
 求解sin(x)的泰勒展开
 ![](images/lab10/5.PNG)
@@ -41,7 +41,7 @@
 ![](images/lab10/7.PNG)
 
 题目二：矩阵处理
-原始矩阵：![](images/lab10/8.PNG)
+原始矩阵：![](images/lab10/8.PNG) <br/>
 1.获取行列
 2.求逆矩阵
 3.获得转置矩阵![](images/lab10/9.PNG)
