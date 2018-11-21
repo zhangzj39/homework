@@ -20,21 +20,21 @@
 
 
 <h3 id="2">2.实验步骤与结果：</h3>
-### 实验前准备 
+###   实验前准备 
 1.软件准备:下载winpython
-![](images/lab10/%E6%8D%951.PNG)
+![ ](images/lab10/%E6%8D%951.PNG)
 2.了解实验环境，基本操作学习
-![](images/lab10/2.PNG)
+![ ](images/lab10/2.PNG)
 ### 实验一 ： 使用python解决高数题目
 第一步，导入math 和 sympy 库
 题目一：求极限![](images/lab10/3.PNG)    ![](images/lab10/4.PNG)
 题目二：泰勒展开
 求解sin(x)的泰勒展开
-![](images/lab10/5.PNG)
+![ ](images/lab10/5.PNG)
 ### 实验二 ： 使用python解决线性代数题目
 题目一：解方程
-![](images/lab10/6.PNG)
-![](images/lab10/7.PNG)
+![ ](images/lab10/6.PNG)
+![ ](images/lab10/7.PNG)
 题目二：矩阵处理
 原始矩阵：![](images/lab10/8.PNG)
 1.获取行列!
