@@ -19,7 +19,7 @@ void bubble_sort(int arr[], int len) {
 }
 int main() {
     int arr[] = { 22, 34, 3, 32, 82, 55, 89, 50, 37, 5, 64, 35, 9, 70 };
-    int len = (int) sizeof(arr) / sizeof(*arr);
+    int len = (int) sizeof(arr) / sizeof(*arr);//此处给出了一种求长度的方式 数学表达4*12/4 = 12 ；
     bubble_sort(arr, len);
     int i;
     for (i = 0; i < len; i++)
