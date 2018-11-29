@@ -1,7 +1,7 @@
 ### c排序算法
 ##### 冒泡排序(Bubble sort)
 冒泡排序是一种简单的排序方法。它重复地走访要排序的数列，一次比较两个元素，如果他们的顺序（如从小到大，首字母A到Z）错误就把他们交换过来。
-图示![]()
+过程演示![](images/lab12/Bubble_sort_animation.gif)<br/>
 
 代码实例
       
@@ -30,7 +30,7 @@ int main() {
 ### 选择排序
 选择排序（Selection sort）是一种简单直观的排序算法。它的工作原理如下。首先在未排序序列中找到最小（大）元素，存放到排序序列的起始位置，然后，再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。以此类推，直到所有元素均排序完毕。
 
-过程演示：!()[]<br/>
+过程演示：![](images/lab12/Selection-Sort-Animation.gif)<br/>
 代码实例：
 ```c
 void swap(int *a,int *b) //交換兩個變數
@@ -55,7 +55,7 @@ void selection_sort(int arr[], int len)
 ```
 ### 插入排序
 插入排序（英语：Insertion Sort）是一种简单直观的排序算法。它的工作原理是通过构建有序序列，对于未排序数据，在已排序序列中从后向前扫描，找到相应位置并插入。插入排序在实现上，通常采用in-place排序（即只需用到 {\displaystyle O(1)} {\displaystyle O(1)}的额外空间的排序），因而在从后向前扫描过程中，需要反复把已排序元素逐步向后挪位，为最新元素提供插入空间。
-过程演示：![]()
+过程演示：![](images/lab12/Insertion_sort_animation.gif)<br/>
 代码实例：
 ```c
 void insertion_sort(int arr[], int len){
@@ -73,7 +73,7 @@ void insertion_sort(int arr[], int len){
 希尔排序是基于插入排序的以下两点性质而提出改进方法的：
 >插入排序在对几乎已经排好序的数据操作时，效率高，即可以达到线性排序的效率
 >但插入排序一般来说是低效的，因为插入排序每次只能将数据移动一位
-过程演示：![]()
+![](images/lab12/Sorting_shellsort_anim.gif)<br/>
 代码实例：
 ```c
 void shell_sort(int arr[], int len) {
