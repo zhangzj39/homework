@@ -5,7 +5,7 @@
 
 代码实例
       
-     ```c
+  ```c
      #include <stdio.h>
 void bubble_sort(int arr[], int len) {
     int i, j, temp;
@@ -26,4 +26,4 @@ int main() {
         printf("%d ", arr[i]);
     return 0;
 }
-     ```
+  ```
