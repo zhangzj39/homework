@@ -1,4 +1,4 @@
-## 关于贪吃蛇小游戏的C语言代码
+### 用c语言实现snake_move
 
 
 #include <stdio.h>  
