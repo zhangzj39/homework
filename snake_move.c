@@ -1,6 +1,6 @@
 ## 关于贪吃蛇小游戏的C语言代码
 
-```c
+
 #include <stdio.h>  
 #include <stdlib.h>  
 #include <time.h>  
@@ -167,4 +167,4 @@ int gameover(void)
     
     return 0;  
 }  
-```
+
