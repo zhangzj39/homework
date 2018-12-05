@@ -35,11 +35,7 @@ char map[12][13]=
 int snakeY[SNAKE_MAX_LENGTH]={5,4,3,2,1};  
 int snakeX[SNAKE_MAX_LENGTH]={1,1,1,1,1};  
 int snakeLength=5;  
-//定义食物的位置   
-int moneyX;  
-int moneyY;  
-//添加一个flag，判断食物是否需要一个食物    
-int flag=1;  
+
 
 int main()  
 {  
@@ -57,7 +53,7 @@ int main()
     {  
       
         
-        //根据食入的数据让蛇移动  
+        //根据输入的数据让蛇移动  
         switch(CH)  
         {  
             case 'a':  
